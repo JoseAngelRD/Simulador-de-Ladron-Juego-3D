@@ -1,4 +1,4 @@
-# 🥷 Simulador de Ladrón - Juego 3D
+# 👾 Simulador de Ladrón - Juego 3D
 
 **Simulador de Ladrón** es un videojuego 3D de sigilo y estrategia en primera persona. El jugador asume el papel de un ladrón que debe infiltrarse en la casa de su vecino, para robar todos los objetos que tiene en su lista, pero no puede permitir que le pillen.
 
